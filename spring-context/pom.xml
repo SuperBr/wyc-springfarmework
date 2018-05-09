@@ -11,5 +11,13 @@
 
     <artifactId>spring-context</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>wyc.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
